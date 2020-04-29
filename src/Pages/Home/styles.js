@@ -30,13 +30,17 @@ export const Title = styled.span`
 	font-family: 'Pacifico', cursive;
 	color: rgba(255,255,255,0.6);
 	font-size: 40px;
+
+	@media (max-width: 320px) {
+		font-size: 30px;
+	}
 `
 
 export const Subtitle = styled.span`
 	font-family: 'Raleway', sans-serif;
 	font-weight: 800;
 	color: rgba(255,255,255,0.8);
-	font-size: 110px;
+	font-size: 100px;
 	margin-top: -25px;
 
 	@media (max-width: 530px) {
@@ -44,7 +48,16 @@ export const Subtitle = styled.span`
 	}
 
 	@media (max-width: 430px) {
-		font-size: 70px;
+		font-size: 65px;
+	}
+
+	@media (max-width: 380px) {
+		font-size: 55px;
+	}
+
+	@media (max-width: 320px) {
+		font-size: 50px;
+		margin-top: -20px;
 	}
 `
 
