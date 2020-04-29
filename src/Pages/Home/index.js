@@ -2,14 +2,25 @@ import React from 'react';
 
 import Topbar from '../../Components/TopBar'
 
-import { Container, Logo, Message } from './styles';
-
-import logoIasp from '../../assets/logo.png';
+import { 
+	Container, 
+	Content, 
+	Title, 
+	Subtitle, 
+	Info, 
+	Button,
+} from './styles';
 
 const Home = () => (
 	<Container>
-		<Logo src={logoIasp}/>
-		<Message>O portal será lançado em algumas horas</Message>
+		<Topbar />
+
+		<Content>
+			<Title>Área do</Title>
+			<Subtitle>CLIENTE</Subtitle>
+			<Info>Solicite sua segunda via de boleto, carteirinha e muito mais.</Info>
+			<Button href="https://cliente.portaliasp.org">ACESSAR</Button>
+		</Content>
 	</Container>
 );
 
