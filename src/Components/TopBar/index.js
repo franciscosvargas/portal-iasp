@@ -12,7 +12,7 @@ export default function TopBar() {
 
 			<Right>
 				<Link href="/">INÍCIO</Link>
-				<Link href="/">SOBRE NÓS</Link>
+				<Link href="/">QUEM SOMOS</Link>
 				<Link href="/">CONVÊNIOS</Link>
 				<Link href="/">CONTATO</Link>
 
