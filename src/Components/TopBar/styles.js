@@ -36,7 +36,7 @@ export const Right = styled.div`
 
 `
 
-export const LinkR = styled.Link`
+export const LinkR = styled(Link)`
 	color: #fff;
 	font-family: 'Roboto', sans-serif;
 	margin-left: 30px;
