@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Container, Logo, Right, Link, MenuButton, Mobile, LinkMobile } from './styles'
+import { Container, Logo, Right, LinkR, MenuButton, Mobile, LinkMobile } from './styles'
 
 import logoIasp from '../../assets/logo.png' 
 import menuIcon from '../../assets/menu.svg'
@@ -11,10 +11,10 @@ export default function TopBar() {
 			<Logo src={logoIasp}/>
 
 			<Right>
-				<Link href="/">INÍCIO</Link>
-				<Link href="#">QUEM SOMOS</Link>
-				<Link href="#">CONVÊNIOS</Link>
-				<Link href="/contato">CONTATO</Link>
+				<LinkR to="/">INÍCIO</LinkR>
+				<LinkR to="#">QUEM SOMOS</LinkR>
+				<LinkR to="#">CONVÊNIOS</LinkR>
+				<LinkR to="/contato">CONTATO</LinkR>
 			</Right>
 
 

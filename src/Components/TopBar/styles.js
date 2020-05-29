@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { Link } from 'react-router-dom'
 
 export const Container = styled.div`
 	width: calc(100% - 100px);
@@ -35,7 +36,7 @@ export const Right = styled.div`
 
 `
 
-export const Link = styled.a`
+export const LinkR = styled.Link`
 	color: #fff;
 	font-family: 'Roboto', sans-serif;
 	margin-left: 30px;
