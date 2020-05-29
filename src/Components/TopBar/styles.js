@@ -7,14 +7,20 @@ export const Container = styled.div`
 	display: flex;
 
 	@media (max-width: 845px) {
-		width: calc(100% - 40px);
-		padding: 40px 20px 0 15px;
+		width: 100%;
+		padding: 40px 0px 0 0px;
+		flex-direction: column;
 	}
 `;
 
 export const Logo = styled.img`
 	width: 210px;
 	height: 84px;
+
+	@media (max-width: 845px) {
+		margin-left: auto;
+		margin-right: auto;
+	}
 `
 
 export const Right = styled.div`
@@ -22,6 +28,10 @@ export const Right = styled.div`
 	display: flex;
 	align-items: center;
 	height: 80px;
+
+	@media (max-width: 845px) {
+		display: none;
+	}
 
 `
 
@@ -36,10 +46,6 @@ export const Link = styled.a`
 		font-weight: 400;
 		opacity: 0.8;
 	}
-
-	@media (max-width: 845px) {
-		display: none;
-	}
 `
 
 export const MenuButton = styled.img`
@@ -49,5 +55,29 @@ export const MenuButton = styled.img`
 
 	@media (max-width: 845px) {
 		display: flex;
+	}
+`
+
+export const Mobile = styled.div`
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	padding: 20px;
+`
+
+export const LinkMobile = styled.a`
+	color: #fff;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	font-weight: 300;
+	margin-top: 10px;
+
+	:hover {
+		font-weight: 400;
+		opacity: 0.8;
+	}
+
+	@media (min-width: 845px) {
+		display: none;
 	}
 `

@@ -18,7 +18,6 @@ const Home = () => (
 		<Content>
 			<Title>Área do</Title>
 			<Subtitle>ASSOCIADO</Subtitle>
-			<Info>Solicite sua segunda via de boleto.</Info>
 			<Button href="https://cliente.portaliasp.org">ACESSAR</Button>
 		</Content>
 	</Container>

@@ -22,3 +22,26 @@ body {
 #root {
 	height: 100%;
 }
+
+
+iframe {
+	width: 600px;
+}
+
+@media (max-width: 1280px) {
+	iframe {
+		width: 500px;
+	}
+}
+
+@media (max-width: 1110px) {
+	iframe {
+		width: 400px;
+	}
+}
+
+@media (max-width: 1024px) {
+	iframe {
+		width: 100%;
+	}
+}

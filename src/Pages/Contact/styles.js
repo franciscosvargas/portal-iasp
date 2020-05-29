@@ -1,12 +1,11 @@
 import styled from 'styled-components';
 import ImageBg from '../../assets/bg.png';
+import { Form } from '@unform/web';
 
 export const Container = styled.div`
 	width: 100%;
 	height: 100%;
-	background-color: rgba(0, 0, 0, 0.6);
-	
-
+	background-color: rgba(0, 0, 0, 0.7);
 	background-image: url(${ImageBg}),linear-gradient(to left, #1d2671 0, #6190E8 100%);
 	background-size: cover;
 	background-position: center;
@@ -14,23 +13,48 @@ export const Container = styled.div`
 	background-blend-mode: overlay;
 	display:flex;
 	flex-direction: column;
+
+	@media (max-width: 1024px) {
+		overflow-y: scroll;
+		
+	}
+	
 `;
 
-export const Content = styled.div`
-	height: calc(100% - 80px);
-	margin: 0 50px 0 50px;
+export const Unform = styled(Form)`
+	padding-bottom: 50px;
 	display: flex;
 	flex-direction: column;
-	align-self: flex-end;
+	flex-grow: 1;
+	margin-left: 50px;
 
+	@media (max-width: 1024px) {
+		margin-top: 40px;
+		margin-left: 0;
+		margin-bottom: 50px;
+	}
+`
+
+export const Content = styled.div`
+	height: 100%;
+	margin: 0 50px 0 50px;
+	display: flex;
+	justify-content: space-between;
+	
 	@media (max-width: 430px) {
 		margin: 0 20px;
 	}
+
+	@media (max-width: 1024px) {
+		flex-direction: column;
+		
+	}
+	
 `
 
 export const Title = styled.span`
 	font-family: 'Pacifico', cursive;
-	color: rgba(255,255,255,0.6);
+	color: rgba(255,255,255,0.8);
 	font-size: 40px;
 
 	@media (max-width: 320px) {
@@ -65,8 +89,8 @@ export const Subtitle = styled.span`
 
 export const Info = styled.span`
 	font-family: 'Roboto', sans-serif;
-	color: rgba(255,255,255,0.8);
-	font-style: italic;
+	color: rgba(255,255,255,1);
+	font-size: 18px;
 	margin-left: 10px;
 `
 
@@ -88,6 +112,53 @@ export const Button = styled.a`
 		color: rgba(0,0,0,0.8);
 	}
 `
+
+export const Input = styled.input`
+	border: 2px solid #fafafa;
+	padding: 10px;
+	color: #fafafa;
+	background: none;
+	font-weight: bold;
+	font-size: 20px;
+
+	::placeholder {
+		color: rgba(255,255,255,0.6);
+	
+	}
+	margin-top: 20px;
+`
+
+export const TextArea = styled.textarea`
+	border: 2px solid #fafafa;
+	padding: 10px;
+	color: #fafafa;
+	background: none;
+	font-weight: bold;
+	font-size: 18px;
+
+	::placeholder {
+		color: rgba(255,255,255,0.6);
+		font-size: 20px;
+	
+	}
+	margin-top: 20px;
+`
+
+export const Wrapper = styled.div`
+	display: flex;
+	margin-top: 20px;
+	align-items: center;
+
+`
+
+export const Icon = styled.img`
+	width: 30px;
+	height: 30px;
+`
+
+
+
+
 
 
 
