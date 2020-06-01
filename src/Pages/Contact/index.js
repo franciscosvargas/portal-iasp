@@ -13,7 +13,8 @@ import {
 	Input, 
 	TextArea,
 	Wrapper, 
-	Icon
+	Icon,
+	Float
 } from './styles';
 
 import phone from '../../assets/phone.svg'
@@ -34,9 +35,9 @@ const Home = () => (
 				<Info>(63) 93322-4940</Info>
 			</Wrapper>
 
-			<Wrapper>
+			<Wrapper href="https://web.whatsapp.com/send?phone=556392558683&text=Ol%C3%A1">
 				<Icon src={whats} />
-				<Info>(63) 99255-8683</Info>
+				<Info>Conversar no Whatsapp</Info>
 			</Wrapper>
 
 			<Wrapper>
@@ -56,7 +57,7 @@ const Home = () => (
 				<TextArea type="textarea" placeholder="Mensagem"></TextArea>
 				<Button onClick={() => alert("Mensagem enviada com sucesso.")}>ENVIAR</Button>
 			</Unform>
-			
+
 		</Content>
 	</Container>
 );

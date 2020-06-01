@@ -24,9 +24,7 @@ const Home = () => (
 			<Button href="https://cliente.portaliasp.org">ACESSAR</Button>
 		</Content>
 
-		<Float href="https://web.whatsapp.com/send?phone=556392558683&text=Ol%C3%A1">
-			<img src={whats} style={{width: 30, height: 30}}/>
-		</Float>
+		
 	</Container>
 );
 

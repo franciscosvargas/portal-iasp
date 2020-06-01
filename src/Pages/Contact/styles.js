@@ -144,7 +144,7 @@ export const TextArea = styled.textarea`
 	margin-top: 20px;
 `
 
-export const Wrapper = styled.div`
+export const Wrapper = styled.a`
 	display: flex;
 	margin-top: 20px;
 	align-items: center;
@@ -155,8 +155,21 @@ export const Icon = styled.img`
 	width: 30px;
 	height: 30px;
 `
-
-
+export const Float = styled.a`
+	position:fixed;
+	width:40px;
+	height:40px;
+	bottom:20px;
+	left:40px;
+	background-color:rgb(0,230,118);
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	display: flex;
+	align-items:center;
+	justify-content: center;
+	
+`
 
 
 
