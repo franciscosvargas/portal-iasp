@@ -19,7 +19,7 @@ export default function TopBar() {
 					<Link href="/">INÍCIO</Link>
 					<Link href="/">QUEM SOMOS</Link>
 					<Link href="/">CONVÊNIOS</Link>
-					<Link href="/">CONTATO</Link>
+					<Link href="/contato">CONTATO</Link>
 
 					<MenuButton onClick={() => setMobile(!mobile)} src={mobile ? closeIcon : menuIcon} />
 				</Right>
@@ -30,7 +30,7 @@ export default function TopBar() {
 						<LinkM href="/">INÍCIO</LinkM>
 						<LinkM href="/">QUEM SOMOS</LinkM>
 						<LinkM href="/">CONVÊNIOS</LinkM>
-						<LinkM href="/">CONTATO</LinkM>
+						<LinkM href="/contact">CONTATO</LinkM>
 				</Mobile>
 			)}
 

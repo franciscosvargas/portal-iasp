@@ -89,5 +89,20 @@ export const Button = styled.a`
 	}
 `
 
+export const Float = styled.a`
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:50%;
+	right:40px;
+	background-color:rgb(0,230,118);
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	display: flex;
+	align-items:center;
+	justify-content: center;
+	
+`
 
 
