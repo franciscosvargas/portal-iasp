@@ -32,7 +32,7 @@ const Home = () => (
 			
 			<Wrapper>
 				<Icon src={phone} />
-				<Info>(63) 93322-4940</Info>
+				<Info>(63) 3322-4940</Info>
 			</Wrapper>
 
 			<Wrapper href="https://api.whatsapp.com/send?phone=556392558683&text=Ol%C3%A1">
