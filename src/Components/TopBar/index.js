@@ -30,7 +30,7 @@ export default function TopBar() {
 						<LinkM to="/">INÍCIO</LinkM>
 						<LinkM to="/">QUEM SOMOS</LinkM>
 						<LinkM to="/">CONVÊNIOS</LinkM>
-						<LinkM to="/contact">CONTATO</LinkM>
+						<LinkM to="/contato">CONTATO</LinkM>
 				</Mobile>
 			)}
 
