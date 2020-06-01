@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-import { Container, Logo, Right, Link, MenuButton, LinkM, Mobile } from './styles'
+import { Container, Logo, Right, LinkP, MenuButton, LinkM, Mobile } from './styles'
 
 import logoIasp from '../../assets/logo.png' 
 import menuIcon from '../../assets/menu.svg'
@@ -16,10 +16,10 @@ export default function TopBar() {
 				<Logo src={logoIasp}/>
 
 				<Right>
-					<Link href="/">INÍCIO</Link>
-					<Link href="/">QUEM SOMOS</Link>
-					<Link href="/">CONVÊNIOS</Link>
-					<Link href="/contato">CONTATO</Link>
+					<LinkP to="/">INÍCIO</LinkP>
+					<LinkP to="/">QUEM SOMOS</LinkP>
+					<LinkP to="/">CONVÊNIOS</LinkP>
+					<LinkP to="/contato">CONTATO</LinkP>
 
 					<MenuButton onClick={() => setMobile(!mobile)} src={mobile ? closeIcon : menuIcon} />
 				</Right>
@@ -27,10 +27,10 @@ export default function TopBar() {
 
 			{mobile && (
 				<Mobile>
-						<LinkM href="/">INÍCIO</LinkM>
-						<LinkM href="/">QUEM SOMOS</LinkM>
-						<LinkM href="/">CONVÊNIOS</LinkM>
-						<LinkM href="/contact">CONTATO</LinkM>
+						<LinkM to="/">INÍCIO</LinkM>
+						<LinkM to="/">QUEM SOMOS</LinkM>
+						<LinkM to="/">CONVÊNIOS</LinkM>
+						<LinkM to="/contact">CONTATO</LinkM>
 				</Mobile>
 			)}
 

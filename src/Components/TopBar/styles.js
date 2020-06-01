@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { Link } from 'react-router-dom';
 
 export const Container = styled.div`
 	width: calc(100% - 100px);
@@ -30,7 +31,7 @@ export const Mobile = styled.div`
 	text-align: right;
 `
 
-export const Link = styled.a`
+export const LinkP = styled(Link)`
 	color: #fff;
 	font-family: 'Roboto', sans-serif;
 	margin-left: 30px;
@@ -45,7 +46,7 @@ export const Link = styled.a`
 	}
 `
 
-export const LinkM = styled.a`
+export const LinkM = styled(Link)`
 	color: #fff;
 	font-family: 'Roboto', sans-serif;
 	margin-top: 20px;
