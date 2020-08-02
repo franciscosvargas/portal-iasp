@@ -5,13 +5,15 @@ import { Switch, Route, BrowserRouter } from 'react-router-dom';
 import Home from './Pages/Home';
 import Contact from './Pages/Contact';
 import Benefits from './Pages/Benefits';
+import Benefit from './Pages/Benefit';
 
 const Routes = () => (
     <BrowserRouter>
 		<Switch>
-        	<Route exact path="/" component={Home}/>
+        	<Route path="/" exact component={Home}/>
 					<Route path="/contato" component={Contact}/>
-					<Route path="/convenios" component={Benefits}/>
+					<Route path="/convenios" exact component={Benefits}/>
+					<Route path="/convenios/:id" exact component={Benefit}/>
 		</Switch>
     </BrowserRouter>
 );

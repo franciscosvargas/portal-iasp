@@ -5,7 +5,7 @@ export const Container = styled.div`
 	width: 100%;
 	height: 100%;
 	background-color: rgba(0, 0, 0, 0.6);
-	overflow-y: auto;
+	overflow-y: scroll;
 
 	background-image: url(${ImageBg}),linear-gradient(to left, #1d2671 0, #6190E8 100%);
 	background-size: cover;
@@ -22,7 +22,6 @@ export const Content = styled.div`
 	margin: 50px 50px 0 50px;
 	display: flex;
 	flex-grow: 1;
-	flex-direction: column;
 	align-items: center;
 	flex-wrap: wrap;
 
@@ -33,11 +32,8 @@ export const Content = styled.div`
 `
 export const Side = styled.div`
 	display: flex;
-	width: 100%;
-	margin-top: 30px;
-	padding-bottom: 50px;
-	flex-wrap: wrap;
-	justify-content: center;
+
+	
 `
 
 export const Title = styled.span`
@@ -55,6 +51,7 @@ export const Subtitle = styled.span`
 	font-weight: 800;
 	color: rgba(255,255,255,0.8);
 	font-size: 100px;
+	margin-top: -25px;
 
 	@media (max-width: 530px) {
 		font-size: 80px;

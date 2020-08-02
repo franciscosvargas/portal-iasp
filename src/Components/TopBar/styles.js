@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 
 export const Container = styled.div`
 	width: calc(100% - 100px);
-	height: 80%;
 	padding: 40px 50px 0px 50px;
 	display: flex;
 	flex-direction: column;

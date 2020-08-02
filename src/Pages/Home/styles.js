@@ -17,14 +17,13 @@ export const Container = styled.div`
 `;
 
 export const Content = styled.div`
-	height: calc(100% - 80px);
-	margin: 0 50px 0 50px;
+	margin: auto 50px 100px 50px;
 	display: flex;
 	flex-direction: column;
 	align-self: flex-end;
 
 	@media (max-width: 430px) {
-		margin: 0 20px;
+		margin: auto 20px;
 	}
 `
 
