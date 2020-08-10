@@ -32,10 +32,10 @@ const Benefits = () => {
 			<Content>
 				
 					<Subtitle>CONVÊNIOS</Subtitle>
-					<Info>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a pretium tortor, et aliquam mauris. Nulla facilisi. Aenean fermentum est vitae augue lacinia pharetra. Cras aliquet, nisl at malesuada pretium, ante ligula imperdiet leo, sed ullamcorper tellus massa vitae quam. Proin a urna purus. Integer lacinia dictum urna at mollis.</Info>
+					<Info>O Instituto de Assistência ao Servidor Público, inscrito no CNPJ sob o nº 32.199.404/0001-42, em parceria com o Sindicato Nacional dos Servidores Federais Da Educação Básica, Profissional E Tecnológica - SINASEFE, através da sua Seção Sindical IFTO, inscrita no CNPJ sob nº 07.251.501/0001-90, disponibiliza diversos convênios com empresas e entidades fornecedoras de produtos e prestação de serviços, que possibilitam descontos aos seus associados e também aos dependentes, mediante a apresentação da carteira de associado. </Info>
 
 					<div style={{display: 'flex', justifyContent: 'flex-end'}}>
-						<Button href="https://cliente.portaliasp.org">COMO FUNCIONA?</Button>
+						{/* <Button href="https://cliente.portaliasp.org">COMO FUNCIONA?</Button> */}
 						<Button href="https://cliente.portaliasp.org">ACESSAR MEUS DADOS</Button>
 					</div>
 
@@ -43,6 +43,8 @@ const Benefits = () => {
 					{benefits.map(benefit => (
 						<Benefit key={benefit._id} info={benefit} />
 					))}
+
+					{benefits == 0 && <Info>NÃO HÁ CONVÊNIOS CADASTRADOS</Info>}
 				</Side>
 
 				

@@ -35,6 +35,15 @@ export const Description = styled.p`
 	margin-top: 10px;
 `
 
+export const Location = styled.p`
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+	text-align: justify;
+	color: #333;
+	opacity: 0.7;
+	margin-top: 5px;
+`
+
 export const Logo = styled.img`
 	width: 100px;
 	height: 100px;
