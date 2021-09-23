@@ -5,7 +5,7 @@ export const Container = styled.div`
 	width: 100%;
 	height: 100%;
 	background-color: rgba(0, 0, 0, 0.6);
-	
+	overflow-y: auto;
 
 	background-image: url(${ImageBg}),linear-gradient(to left, #C3DA8C 0, #437512 100%);
 	background-size: cover;
@@ -14,28 +14,39 @@ export const Container = styled.div`
 	background-blend-mode: overlay;
 	display:flex;
 	flex-direction: column;
+	
+
 `;
 
 export const Content = styled.div`
-	margin: auto 50px 100px 50px;
+	margin: 50px 50px 0 50px;
 	display: flex;
+	flex-grow: 1;
 	flex-direction: column;
-	align-self: flex-end;
+	align-items: center;
+	flex-wrap: wrap;
 
 	@media (max-width: 430px) {
-		margin: auto 20px;
+		margin: 40px 20px;
 	}
+
+`
+export const Side = styled.div`
+	display: flex;
+	width: 100%;
+	margin-top: 30px;
+	padding-bottom: 50px;
+	flex-wrap: wrap;
+	justify-content: center;
 `
 
 export const Title = styled.span`
 	font-family: 'Pacifico', cursive;
 	color: rgba(255,255,255,0.6);
 	font-size: 40px;
-	margin-bottom: 20px;
 
-	@media (max-width: 600px) {
+	@media (max-width: 320px) {
 		font-size: 30px;
-		margin-bottom: 30px;
 	}
 `
 
@@ -43,15 +54,15 @@ export const Subtitle = styled.span`
 	font-family: 'Raleway', sans-serif;
 	font-weight: 800;
 	color: rgba(255,255,255,0.8);
-	font-size: 80px;
-	margin-top: -25px;
+	font-size: 100px;
+	text-align: center;
 
-	@media (max-width: 530px) {
-		font-size: 60px;
+	@media (max-width: 800px) {
+		font-size: 70px;
 	}
 
 	@media (max-width: 430px) {
-		font-size: 45px;
+		font-size: 65px;
 	}
 
 	@media (max-width: 380px) {
@@ -69,6 +80,15 @@ export const Info = styled.span`
 	color: rgba(255,255,255,0.8);
 	font-style: italic;
 	margin-left: 10px;
+	text-align: justify;
+	font-size: 18px;
+
+	@media (min-width: 430px) {
+		max-width: 80%;
+		margin-top: 10px;
+	}
+
+
 `
 
 export const Button = styled.a`
@@ -77,9 +97,9 @@ export const Button = styled.a`
 	border: 2px solid rgba(255,255,255,0.8);
 	color: rgba(255,255,255,0.8);
 	letter-spacing: 2px;
-	margin: 20px 0px 0px 0px;
+	margin: 20px 0px 0px 10px;
 	height: 40px;
-	width: 300px;
+	padding: 5px 12px;
 	display: flex;
 	justify-content: center;
 	align-items: center;

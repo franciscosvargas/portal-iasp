@@ -1,0 +1,124 @@
+﻿{
+    "Table 1": [
+        {
+            "UF": "TO",
+            "CIDADE": "PEDRO AFONSO",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "BRUNO ALAMEDA MONTEIRO",
+            "CRO": "2334",
+            "ENDEREÇO": "RUA 26 DE JULHO, 444",
+            "TELEFONE": "63 3466-1198"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PEDRO AFONSO",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "DENIZE GRAZZIELI DA SILVA",
+            "CRO": "2042",
+            "ENDEREÇO": "RUA 26 DE JULHO, 444",
+            "TELEFONE": "63 3466-1198"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PEDRO AFONSO",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "FRANCISCO MARCOS PEREIRA SOUSA",
+            "CRO": "2683",
+            "ENDEREÇO": "RUA 26 DE JULHO, 444",
+            "TELEFONE": "63 3466-1198"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PEDRO AFONSO",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "IGOR ALVES DIAS",
+            "CRO": "1677",
+            "ENDEREÇO": "RUA 26 DE JULHO, 444",
+            "TELEFONE": "63 3466-1198"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PEDRO AFONSO",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "IURY ALVES DE OLIVEIRA DIAS",
+            "CRO": "1995",
+            "ENDEREÇO": "RUA 26 DE JULHO, 444",
+            "TELEFONE": "63 3466-1198"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PEDRO AFONSO",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "JOSE COMBAS ALAMEDA NETO",
+            "CRO": "2154",
+            "ENDEREÇO": "RUA 26 DE JULHO, 444",
+            "TELEFONE": "63 3466-1198"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PEDRO AFONSO",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "KAROLINE BARBOSA BEZERRA",
+            "CRO": "1619",
+            "ENDEREÇO": "RUA SOLATIL FRANCISCO SALES, 341",
+            "TELEFONE": "63 3466-1419"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PEDRO AFONSO",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "NELSON MONTANINI NETO",
+            "CRO": "2532",
+            "ENDEREÇO": "AV. BENJAMIM CONSTANT, 270",
+            "TELEFONE": "63 8447-5024"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PEDRO AFONSO",
+            "BAIRRO": "SETOR AEROPORTO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ANA CLAUDIA DE AMORIM BARBOSA",
+            "CRO": "702",
+            "ENDEREÇO": "AV. JOAO DAMASCENO DE SA, 1734",
+            "TELEFONE": "63 3466-2341"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PEDRO AFONSO",
+            "BAIRRO": "SETOR AEROPORTO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "FLAVIA COSTA SILVA",
+            "CRO": "1566",
+            "ENDEREÇO": "AV. JOAO DAMASCENO DE SA, 1374",
+            "TELEFONE": "63 3466-2341"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PEDRO AFONSO",
+            "BAIRRO": "SETOR AEROPORTO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "JONATHAN AVALO STOZEK",
+            "CRO": "1146",
+            "ENDEREÇO": "RUA MESTRE BENTO, 1847",
+            "TELEFONE": "63 3466-2346"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PEDRO AFONSO",
+            "BAIRRO": "SETOR AEROPORTO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "THAISE CARRA DIAS",
+            "CRO": "2363",
+            "ENDEREÇO": "RUA SALATIEL FRANCISCO SALES, 397",
+            "TELEFONE": "63 3466-1820"
+        }
+    ]
+}

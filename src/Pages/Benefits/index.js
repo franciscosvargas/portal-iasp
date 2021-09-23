@@ -5,25 +5,35 @@ import Topbar from '../../Components/TopBar'
 import { 
 	Container, 
 	Content, 
-	Title, 
 	Subtitle, 
 	Info, 
-	Button,
-	Float,
-	Side
+	List
 } from './styles';
 
-import Benefit from '../../Components/Benefit'
+import Araguaina from './ArquivosDental/ARAGUAINA.json'
+import Colinas from './ArquivosDental/COLINAS.json'
+import Dianopolis from './ArquivosDental/DIANOPOLIS.json'
+import Gurupi from './ArquivosDental/GURUPI.json'
+import Palmas from './ArquivosDental/PALMAS.json'
+import Paraiso from './ArquivosDental/PARAISO.json'
+import PedroAfonso from './ArquivosDental/PEDRO_AFONSO.json'
 
-import whats from '../../assets/whatsapp.svg'
+import Select from 'react-select'
 
 const Benefits = () => {
-	const [ benefits, setBenefits ] = useState([])
+	const [ city, setCity ] = useState(null)
+	const [ locals, setLocals ] = useState(null)
 
-	useEffect(() => {
-		fetch('https://api.portaliasp.org/benefits')
-			.then(async response => setBenefits(await response.json()))
-	}, [])
+	const options = [
+		{ value: 'ARAGUAINA', label: 'Araguaína', file: Araguaina},
+		{ value: 'COLINAS', label: 'Colinas', file: Colinas},
+		{ value: 'DIANOPOLIS', label: 'Dianópolis', file: Dianopolis },
+		{ value: 'GURUPI', label: 'Gurupi', file: Gurupi },
+		{ value: 'PALMAS', label: 'Palmas', file: Palmas },
+		{ value: 'PARAISO', label: 'Paraíso', file: Paraiso },
+		{ value:  'PEDRO_AFONSO', label: 'Pedro Afonso', file: PedroAfonso}
+	]
+	
 
 	return (
 		<Container>
@@ -31,23 +41,55 @@ const Benefits = () => {
 
 			<Content>
 				
-					<Subtitle>CONVÊNIOS</Subtitle>
-					<Info>O Instituto de Assistência ao Servidor Público, inscrito no CNPJ sob o nº 32.199.404/0001-42, em parceria com o Sindicato Nacional dos Servidores Federais Da Educação Básica, Profissional E Tecnológica - SINASEFE, através da sua Seção Sindical IFTO, inscrita no CNPJ sob nº 07.251.501/0001-90, disponibiliza diversos convênios com empresas e entidades fornecedoras de produtos e prestação de serviços, que possibilitam descontos aos seus associados e também aos dependentes, mediante a apresentação da carteira de associado. </Info>
+					<Subtitle>Plano de Saúde</Subtitle>
+					<Info>O Instituto de Assistência ao Servidor Público – IASP oportuniza aos Servidores Federais, plano de Saúde vinculado à Unimed São do Rio Preto com  valores exclusivos. A modalidade de cobertura ofertada é de nível nacional e possui duas redes de atendimento: acomodação coletiva e acomodação individual.</Info>
+					<Info>Para contratar e ter mais informações sobre coberturas e demais especificações, entre em contato nos telefones 063 9 9255-86-83 e 063 3322-2700.</Info>
 
-					<div style={{display: 'flex', justifyContent: 'flex-end'}}>
-						{/* <Button href="https://cliente.portaliasp.org">COMO FUNCIONA?</Button> */}
-						<Button href="https://cliente.portaliasp.org">ACESSAR MEUS DADOS</Button>
+					<div style={{marginTop: 50}}></div>
+					<Subtitle>Plano Odontológico</Subtitle>
+					<Info>O Instituto de Assistência ao Servidor Público – IASP oportuniza aos Servidores Federais, plano odontológico vinculado a Bradesco Seguros, com modalidades e valores exclusivos. A cobertura ofertada é de nível nacional e possui duas redes de atendimento: Padrão DOC  e Premium TOP.</Info>
+
+					<div style={{marginTop: 20}}></div>
+					<Info><b>Confira o Guia de Profissionais Cadastrados para sua Localidade:</b></Info>
+
+
+					<div style={{marginTop: 20, width: 250, fontFamily: "Roboto"}}>
+						<Select 
+							options={options}
+							placeholder="Selecione uma cidade"
+							value={city}
+							onChange={val => {
+								setCity(val)
+								setLocals(val.file)
+							}} />
 					</div>
 
-				<Side>
-					{benefits.map(benefit => (
-						<Benefit key={benefit._id} info={benefit} />
-					))}
 
-					{benefits == 0 && <Info>NÃO HÁ CONVÊNIOS CADASTRADOS</Info>}
-				</Side>
+					{locals && (
+						
+						<List>
+							{
+								locals['Table 1'].map((item, index) => (
+									<div key={index}>
+										<h2>{item.CREDENCIADO}</h2>
+										<h4>{item.ESPECIALIDADE} - CRO: {item.CRO}</h4>
+
+										<section>
+
+											<h4>{item['ENDEREÇO']} - {item['BAIRRO']} </h4>
+											<h4>{item.TELEFONE}</h4>
+
+									</section>
+
+								</div>
+								))
+							}
+							
+						</List>
+					)}
 
 				
+					
 
 				
 			</Content>

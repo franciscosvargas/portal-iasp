@@ -17,7 +17,7 @@ export default function TopBar() {
 
 				<Right>
 					<LinkP to="/">INÍCIO</LinkP>
-					<LinkP to="/">QUEM SOMOS</LinkP>
+					<LinkP to="/quem-somos">QUEM SOMOS</LinkP>
 					<LinkP to="/convenios">CONVÊNIOS</LinkP>
 					<LinkP to="/contato">CONTATO</LinkP>
 
@@ -28,7 +28,7 @@ export default function TopBar() {
 			{mobile && (
 				<Mobile>
 						<LinkM to="/">INÍCIO</LinkM>
-						<LinkM to="/">QUEM SOMOS</LinkM>
+						<LinkM to="/quem-somos">QUEM SOMOS</LinkM>
 						<LinkM to="/convenios">CONVÊNIOS</LinkM>
 						<LinkM to="/contato">CONTATO</LinkM>
 				</Mobile>

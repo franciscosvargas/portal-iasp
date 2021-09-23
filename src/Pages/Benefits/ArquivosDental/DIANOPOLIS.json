@@ -1,0 +1,44 @@
+﻿{
+    "Table 1": [
+        {
+            "UF": "TO",
+            "CIDADE": "DIANOPOLIS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "FABIO DAL MOLIN",
+            "CRO": "876",
+            "ENDEREÇO": "RUA JOAO  RODRIGUES, 267 QD 10 LT 01",
+            "TELEFONE": "63 3692-2546"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "DIANOPOLIS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "FABIO DAL MOLIN",
+            "CRO": "876",
+            "ENDEREÇO": "RUA JOAO RODRIGUES, 267 QD 10 LT 01",
+            "TELEFONE": "63 3692-2546"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "DIANOPOLIS",
+            "BAIRRO": "SETOR CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "IGO MAMEDE RAMOS",
+            "CRO": "1324",
+            "ENDEREÇO": "AV. GOIAS, 0",
+            "TELEFONE": "63 9218-1902"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "DIANOPOLIS",
+            "BAIRRO": "SETOR CENTRAL",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "IGO MAMEDE RAMOS",
+            "CRO": "1324",
+            "ENDEREÇO": "AV. GOIAS, 0",
+            "TELEFONE": "63 9218-1902"
+        }
+    ]
+}

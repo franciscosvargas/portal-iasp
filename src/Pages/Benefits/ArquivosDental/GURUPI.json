@@ -1,0 +1,292 @@
+﻿{
+    "Table 1": [
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "CRISTIANE MENDES PEREIRA",
+            "CRO": "934",
+            "ENDEREÇO": "RUA EURIDECI RODRIGUES DE BRITO, 2311 QD 201 LT 5",
+            "TELEFONE": "63 3315-2060"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ED WILSON CESAR",
+            "CRO": "1027",
+            "ENDEREÇO": "AV. MATO GROSSO, 1528 SLS 1 E 2",
+            "TELEFONE": "63 3316-1299"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "FRANCISCA VALDA DE MENEZES GRANJA BATISTA",
+            "CRO": "073",
+            "ENDEREÇO": "RUA JUCELINO KUBISTCHEK, 1683",
+            "TELEFONE": "63 3312-0056"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "JANAINA ENOABIA COIMBRA NAVES",
+            "CRO": "2270",
+            "ENDEREÇO": "AV. CEARA, 1974 ENTRE 6 E 7",
+            "TELEFONE": "63 3351-3766"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "LUIZ EDUARDO SILVA PIMENTEL DE MORAIS",
+            "CRO": "1552",
+            "ENDEREÇO": "RUA DEP JOSE DE ASSIS, 1679",
+            "TELEFONE": "63 3316-1526"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ROBISMAR PEREIRA MACHADO",
+            "CRO": "2088",
+            "ENDEREÇO": "AV. MATO GROSSO, 1528 SLS 1 E 2",
+            "TELEFONE": "63 3316-1299"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "TAIZA RODRIGUES CARDOSO",
+            "CRO": "2269",
+            "ENDEREÇO": "AV. AMAZONAS, 1169 ENTRE RUA 4 E 5",
+            "TELEFONE": "63 3313-1114"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Dentística",
+            "CREDENCIADO": "ED WILSON CESAR",
+            "CRO": "1027",
+            "ENDEREÇO": "AV. MATO GROSSO, 1528 SLS 1 E 2",
+            "TELEFONE": "63 3316-1299"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Endodontia",
+            "CREDENCIADO": "CRISTIANE MENDES PEREIRA",
+            "CRO": "934",
+            "ENDEREÇO": "RUA EURIDECI RODRIGUES DE BRITO, 2311 QD 201 LT 5",
+            "TELEFONE": "63 3315-2060"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Endodontia",
+            "CREDENCIADO": "TAIZA RODRIGUES CARDOSO",
+            "CRO": "2269",
+            "ENDEREÇO": "AV. AMAZONAS, 1169 ENTRE RUA 4 E 5",
+            "TELEFONE": "63 3313-1114"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "CRISTIANE MENDES PEREIRA",
+            "CRO": "934",
+            "ENDEREÇO": "RUA EURIDECI RODRIGUES DE BRITO, 2311 QD 201 LT 5",
+            "TELEFONE": "63 3315-2060"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "TAIZA RODRIGUES CARDOSO",
+            "CRO": "2269",
+            "ENDEREÇO": "AV. AMAZONAS, 1169 ENTRE RUA 4 E 5",
+            "TELEFONE": "63 3313-1114"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Radiologia",
+            "CREDENCIADO": "CIR - CLINICA DE IMAGEM RADIOLOGIA - LTDA",
+            "ENDEREÇO": "AV. GUANABARA, 1665",
+            "TELEFONE": "63 3313-3136"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Radiologia",
+            "CREDENCIADO": "GURUPI DIAGNOSTICOS MEDICOS LTDA EPP",
+            "ENDEREÇO": "AV. MATO GROSSO, 1785",
+            "TELEFONE": "63 3351-2884"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "SETOR CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "LUCIANO LEAO NUNES",
+            "CRO": "54",
+            "ENDEREÇO": "RUA ENG BERNARDO SAYAO, 1229",
+            "TELEFONE": "63 3312-2141"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "SETOR CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "MERRYS FERREIRA MARINHO",
+            "CRO": "2091",
+            "ENDEREÇO": "AV. AMAZONAS, 1169 QD 65 LT 5 E 6",
+            "TELEFONE": "63 3313-1114"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "SETOR CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "NARLA MARTINS TERRA",
+            "CRO": "1468",
+            "ENDEREÇO": "RUA DEP JOSE DE ASSIS, 1679",
+            "TELEFONE": "63 3316-1526"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "SETOR CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "PAULA THAIS PINHEIRO SOUSA AGUIAR",
+            "CRO": "3087",
+            "ENDEREÇO": "AVENIDA PARA, 1902",
+            "TELEFONE": "63 3312-6442"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "SETOR CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "RAFAELLA ALVES DO PRADO MESSIAS",
+            "CRO": "1367",
+            "ENDEREÇO": "AV. PIAUI, 2041",
+            "TELEFONE": "63 3313-1759"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "SETOR PEDROSO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "MICHELLA DE ANDRADE ALMEIDA",
+            "CRO": "1598",
+            "ENDEREÇO": "AV. DUERE, 818 QD 08 LT6 ST PEDROSO",
+            "TELEFONE": "63 3351-1895"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "SOL NASCENTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "VICTOR AFFONSO LATROVA",
+            "CRO": "1561",
+            "ENDEREÇO": "RUA S 007, 360 QD 33 LT 9",
+            "TELEFONE": "63 3312-7957"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "SOL NASCENTE",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "VICTOR AFFONSO LATROVA",
+            "CRO": "1561",
+            "ENDEREÇO": "RUA S 007, 360 QD 33 LT 9",
+            "TELEFONE": "63 3312-7957"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "ST CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "CAMILA NOGUEIRA DURAN MARCAL",
+            "CRO": "2625",
+            "ENDEREÇO": "AV. SAO PAULO, 1310",
+            "TELEFONE": "63 3312-2606"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "ST CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "CARLOS HENRIQUE MIRANDA OLIVEIRA",
+            "CRO": "1507",
+            "ENDEREÇO": "AV. PIAUI, 1760 ENTRE 4 E 5",
+            "TELEFONE": "63 3312-4545"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "ST CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "HELLEN CASSIA ALVES SOARES",
+            "CRO": "1605",
+            "ENDEREÇO": "RUA ENG BERNARDO SAYAO, 1717",
+            "TELEFONE": "63 3312-3661"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "ST CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "JESSICA FERREIRA DE AQUINO",
+            "CRO": "2335",
+            "ENDEREÇO": "RUA EURIDICE RODRIGUES BRITO, 0 QD 201 L5",
+            "TELEFONE": "63 3315-2060"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "ST CENTRAL",
+            "ESPECIALIDADE": "Endodontia",
+            "CREDENCIADO": "CAMILA NOGUEIRA DURAN MARCAL",
+            "CRO": "2625",
+            "ENDEREÇO": "AV. SAO PAULO, 1310",
+            "TELEFONE": "63 3312-2606"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "ST CENTRAL",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "HELLEN CASSIA ALVES SOARES",
+            "CRO": "1605",
+            "ENDEREÇO": "RUA ENG BERNARDO SAYAO, 1717",
+            "TELEFONE": "63 3312-3661"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "GURUPI",
+            "BAIRRO": "VL PEDROSO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "MICHELLA DE ANDRADE ALMEIDA",
+            "CRO": "1598",
+            "ENDEREÇO": "RUA DUERE, 818",
+            "TELEFONE": "63 3351-1895"
+        }
+    ]
+}

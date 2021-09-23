@@ -1,0 +1,1304 @@
+﻿{
+    "Table 1": [
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ANA MARIA GASPAR AMANCIO DE CARVALHO",
+            "CRO": "553",
+            "ENDEREÇO": "104 SUL AV LO 1, 31 SL 110 LT 12 CJ 4",
+            "TELEFONE": "63 3026-2654"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ANNA RHAQUEL ARAUJO SILVA",
+            "CRO": "2225",
+            "ENDEREÇO": "AV. JK, 121 QD 104 NORTE SL 1/ 3",
+            "TELEFONE": "63 3213-1137"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ANTONIO ALBERTO ALMEIDA MAIA",
+            "CRO": "766",
+            "ENDEREÇO": "QD 504 SUL AL 03 LT 06, S/N SL 02 E 03",
+            "TELEFONE": "63 3214-3986"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "CAROLINE CINQUINI FREITAS FRANCO",
+            "CRO": "6130",
+            "ENDEREÇO": "QD 108 NORTE AV LO 4, 12",
+            "TELEFONE": "63 3215-4693"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "EMANUEL NERI GONCALVES",
+            "CRO": "560",
+            "ENDEREÇO": "AV. JK, 106 NORTE LT 03 SL 02",
+            "TELEFONE": "63 3225-5204"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "FREDERICO GUEDES VALADARES",
+            "CRO": "1045",
+            "ENDEREÇO": "AV. 401 SUL AV LJ 11, S/N LT 2 CJ 2 SL 807",
+            "TELEFONE": "63 3224-5313"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "IZAILMA DE SOUSA MONTEIRO",
+            "CRO": "1268",
+            "ENDEREÇO": "QD 104 NORTE RUA NE, 01 LT 29",
+            "TELEFONE": "63 3026-1325"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "LORENA CHRISTIE RIBEIRO OLIVEIRA",
+            "CRO": "2895",
+            "ENDEREÇO": "QD 108 NORTE AV LO 4, 12",
+            "TELEFONE": "63 3215-4693"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "LUCIANO NAKASHIMA VIOLATO",
+            "CRO": "938",
+            "ENDEREÇO": "QD 108 NORTE AV LO 4, 12",
+            "TELEFONE": "63 3215-4693"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "MONICA NAKASHIMA VIOLATO DIAS",
+            "CRO": "606",
+            "ENDEREÇO": "QD 108 NORTE AV LO 4, 12",
+            "TELEFONE": "63 3215-4693"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "PAULA DE ASSUNCAO MENDES DA PAIXAO HUIDA",
+            "CRO": "1923",
+            "ENDEREÇO": "QD 108 NORTE AV LO 4, 12",
+            "TELEFONE": "63 3215-4693"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "RODRIGO LUIS NOGUEIRA",
+            "CRO": "838",
+            "ENDEREÇO": "104 NORTE AV JK, 0 SL 06 ACNE 1 LT 99 A",
+            "TELEFONE": "63 3215-2953"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "SABRINA YURI HATAYAMA",
+            "CRO": "2046",
+            "ENDEREÇO": "QD 108 NORTE AV LO 4, 12",
+            "TELEFONE": "63 3215-4693"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "SIDNARA APARECIDA PARREIRA DA SILVA",
+            "CRO": "591",
+            "ENDEREÇO": "AV. JK, 106 NORTE LT 03 SL 02",
+            "TELEFONE": "63 3225-5204"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "SILVIO BARSZCZ",
+            "CRO": "516",
+            "ENDEREÇO": "RUA 104 NORTE RUA NE 01 LT 27 SL 5, 01 CENTRO COM AGUA VIVA",
+            "TELEFONE": "63 3215-7286"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "THIAGO RIBEIRO CORREA",
+            "CRO": "1753",
+            "ENDEREÇO": "AV. LO 15 LT 14 QD 604, S/N SL 01/02",
+            "TELEFONE": "63-3225-1832"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "VERA MARISA APARECIDA COSTA LEMOS FARIA",
+            "CRO": "505",
+            "ENDEREÇO": "AV. 401 SUL TEOTONIO SEGURADO LT 01, 0 S/N CJ 01",
+            "TELEFONE": "63 3028-2065"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "WILSON BOSSONARO JUNIOR",
+            "CRO": "508",
+            "ENDEREÇO": "AV. JUSCELINO KUBITSCHEK, 99 QD 104 NORTE SL 06",
+            "TELEFONE": "63 3215-5165"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "ANNA RHAQUEL ARAUJO SILVA",
+            "CRO": "2225",
+            "ENDEREÇO": "AV. JK, 121 QD 104 NORTE SL 1/ 3",
+            "TELEFONE": "63 3213-1137"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "IZAILMA DE SOUSA MONTEIRO",
+            "CRO": "1268",
+            "ENDEREÇO": "RUA NE , 01 QD 104 LT 29 SL 02",
+            "TELEFONE": "63 3026-1325"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "LUCIANO NAKASHIMA VIOLATO",
+            "CRO": "938",
+            "ENDEREÇO": "QD 108 NORTE AV LO 4, 12",
+            "TELEFONE": "63 3215-4693"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "SIDNARA APARECIDA PARREIRA DA SILVA NERI",
+            "CRO": "591",
+            "ENDEREÇO": "AV. J K , 106 NORTE LT 03 SL 02",
+            "TELEFONE": "63 3225-5204"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "VERA MARISA APARECIDA COSTA LEMOS FARIA",
+            "CRO": "505",
+            "ENDEREÇO": "AV. 401 SUL TEOTONIO SEGURADO LT 01, 0 S/N CJ 01",
+            "TELEFONE": "63 3028-2065"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Ortopedia Func. dos M",
+            "CREDENCIADO": "LUCIANO NAKASHIMA VIOLATO",
+            "CRO": "938",
+            "ENDEREÇO": "QD 108 NORTE AV LO 4, 12",
+            "TELEFONE": "63 3215-4693"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Periodontia",
+            "CREDENCIADO": "SABRINA YURI HATAYAMA",
+            "CRO": "2046",
+            "ENDEREÇO": "QD 108 NORTE AV LO 4, 12",
+            "TELEFONE": "63 3215-4693"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Periodontia",
+            "CREDENCIADO": "WILSON BOSSONARO JUNIOR",
+            "CRO": "508",
+            "ENDEREÇO": "AV. JUSCELINO KUBITSCHEK, 99 QD 104 NORTE SL 06",
+            "TELEFONE": "63 3215-5165"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO (TAQUARALTO)",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ELISA MARIA COSTA SZKRUC",
+            "CRO": "2104",
+            "ENDEREÇO": "RUA TOCANTINS, 0 QD 8 LT 4",
+            "TELEFONE": "63 3571-6620"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO (TAQUARALTO)",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "GEORGIA VANDERLEY DOS SANTOS",
+            "CRO": "2058",
+            "ENDEREÇO": "RUA TOCANTINS, 0 QD 8 LT 4",
+            "TELEFONE": "63 3571-6620"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO (TAQUARALTO)",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ISABELLA CARMO PINHEIRO NOLASCO",
+            "CRO": "2935",
+            "ENDEREÇO": "RUA TOCANTINS, 0 QD 8 LT 4",
+            "TELEFONE": "63 3571-6620"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO (TAQUARALTO)",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "RAFAEL ALVES DO PRADO",
+            "CRO": "1811",
+            "ENDEREÇO": "RUA TOCANTINS, 0 QD 8 LT 4",
+            "TELEFONE": "63 3571-6620"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO (TAQUARALTO)",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "VANESSA NUNES DE FARIA",
+            "CRO": "2795",
+            "ENDEREÇO": "RUA TOCANTINS, 0 QD 8 LT 4",
+            "TELEFONE": "63 3571-6620"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO (TAQUARALTO)",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "VERONICA LUSTOSA DE SOUZA",
+            "CRO": "2672",
+            "ENDEREÇO": "RUA TOCANTINS, 0 QD 8 LT 4",
+            "TELEFONE": "63 3571-6620"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO (TAQUARALTO)",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "WENDELL DIAS FERNANDES",
+            "CRO": "2044",
+            "ENDEREÇO": "RUA TOCANTINS, 0 QD 8 LT 4",
+            "TELEFONE": "63 3571-6620"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "CENTRO (TAQUARALTO)",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "GEORGIA VANDERLEY DOS SANTOS",
+            "CRO": "2058",
+            "ENDEREÇO": "RUA TOCANTINS, 0 QD 8 LT 4",
+            "TELEFONE": "63 3571-6620"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "JARDIM AURENY III",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "BRUNO HOLANDA AGUIAR",
+            "CRO": "1602",
+            "ENDEREÇO": "AV. I, 0 SL 04 LT 02 QD 108",
+            "TELEFONE": "63 3571-4490"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "JARDIM AURENY III",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "JAHINY ALMEIDA GUIMARAES",
+            "CRO": "2126",
+            "ENDEREÇO": "AV. I, 117 QD 117 LT 15 SL 03",
+            "TELEFONE": "63 3571-8322"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "JARDIM AURENY III",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "RAFAEL ARRATES PIRES",
+            "CRO": "1929",
+            "ENDEREÇO": "AV. I, 0 SL 04 LT 02 QD 108",
+            "TELEFONE": "63 3571-4490"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "JARDIM AURENY III",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "VICTOR HUGO COELHO CARMO",
+            "CRO": "2123",
+            "ENDEREÇO": "AV. I, 117 QD 117 LT 15 SL 03",
+            "TELEFONE": "63 3571-8322"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ALINE COSTA PIRES",
+            "CRO": "3104",
+            "ENDEREÇO": "RUA NE 5 104 NORTE, 28 LT 24 CJ 3SL 3",
+            "TELEFONE": "63 3322-9080"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "CLEIDE BORGES DE JESUS",
+            "CRO": "1569",
+            "ENDEREÇO": "RUA 103 NORTE RUA DE PEDESTRE NO 9, 3 ACNO 11 CJ\r\n3",
+            "TELEFONE": "63 3215-2345"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR NORTE",
+            "ESPECIALIDADE": "Endodontia",
+            "CREDENCIADO": "ORLANDO MARTINS DE AMARAL JUNIOR",
+            "CRO": "561",
+            "ENDEREÇO": "RUA 103 NORTE RUA DE PEDESTRE NO 9, 3 ACNO 11 CJ\r\n3",
+            "TELEFONE": "63 3215-2345"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR NORTE",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "CLEIDE BORGES DE JESUS",
+            "CRO": "1569",
+            "ENDEREÇO": "RUA 103 NORTE RUA DE PEDESTRE NO 9, 3 ACNO 11 CJ\r\n3",
+            "TELEFONE": "63 3215-2345"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR NORTE",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "LILIANE DELMONDES BARBOSA PRADO TELES",
+            "CRO": "721",
+            "ENDEREÇO": "RUA 103 NORTE RUA DE PEDESTRE NO 9, 3 ACNO 11 CJ\r\n3",
+            "TELEFONE": "63 3215-2345"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR NORTE",
+            "ESPECIALIDADE": "Ortopedia Func. dos M",
+            "CREDENCIADO": "CLEIDE BORGES DE JESUS",
+            "CRO": "1569",
+            "ENDEREÇO": "RUA 103 NORTE RUA DE PEDESTRE NO 9, 3 ACNO 11 CJ\r\n3",
+            "TELEFONE": "63 3215-2345"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR NORTE",
+            "ESPECIALIDADE": "Ortopedia Func. dos M",
+            "CREDENCIADO": "LILIANE DELMONDES BARBOSA PRADO TELES",
+            "CRO": "721",
+            "ENDEREÇO": "RUA 103 NORTE RUA DE PEDESTRE NO 9, 3 ACNO 11 CJ\r\n3",
+            "TELEFONE": "63 3215-2345"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Cirurgia",
+            "CREDENCIADO": "JEANE NUNES BELO",
+            "CRO": "1831",
+            "ENDEREÇO": "RUA 404 SUL AV LO 11, 0 LT 14",
+            "TELEFONE": "63 3214-3132"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ALINNE DIAS ANTUNES",
+            "CRO": "3004",
+            "ENDEREÇO": "QD 206 SUL AL 6, 0 LT 2",
+            "TELEFONE": "63 3215-2470"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "BRUNA FERREIRA CABRAL",
+            "CRO": "2877",
+            "ENDEREÇO": "QD 206 SUL AL 6, 0 LT 2",
+            "TELEFONE": "63 3215-2470"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "FABIO EDUARDO FACHINI",
+            "CRO": "735",
+            "ENDEREÇO": "RUA 404 SUL AV LO 11, 0 LT 14",
+            "TELEFONE": "63 3214-3132"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "GLAUBER MARCELINO RABELO",
+            "CRO": "1666",
+            "ENDEREÇO": "QD 206 SUL AL 6, 0 LT 2",
+            "TELEFONE": "63 3215-2470"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "LISSANDRA DE PAULA GUSSO PIMENTEL",
+            "CRO": "715",
+            "ENDEREÇO": "RUA 404 SUL AV LO 11, 0 LT 14",
+            "TELEFONE": "63 3214-3132"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "MARCOS ALVES DIAS PIMENTEL",
+            "CRO": "676",
+            "ENDEREÇO": "RUA 404 SUL AV LO 11, 0 LT 14",
+            "TELEFONE": "63 3214-3132"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "MARCUS VINICIUS BOTELHO MARQUES",
+            "CRO": "1081",
+            "ENDEREÇO": "RUA 706 SUL AV LO 19, 0 SN SL 02 LT 22",
+            "TELEFONE": "63 3322-7825"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "MICHELLE LEITE DIAS",
+            "CRO": "1968",
+            "ENDEREÇO": "RUA 104 SUL RUA SE 5, 3 GALERIA ROCHA",
+            "TELEFONE": "63 3213-3091"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "OTACIANO  MARTINS DE OLIVEIRA JUNIOR",
+            "CRO": "929",
+            "ENDEREÇO": "RUA 504 SUL AL 3, 00 LT 06 SL 02 E 03",
+            "TELEFONE": "63 3214-3986"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ROGERIO COSTA BOTELHO",
+            "CRO": "1210",
+            "ENDEREÇO": "RUA 504 SUL AL 3, 00 LT 06 SL 02 E 03",
+            "TELEFONE": "63 3214-3986"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "TAIZA RODRIGUES CARDOSO",
+            "CRO": "2269",
+            "ENDEREÇO": "AV. 101 SUL AV JOAQUIM TEOTONIO SEGURADO, 0 QD 101 SUL LT 06",
+            "TELEFONE": "63 3215-3939"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Endodontia",
+            "CREDENCIADO": "LISSANDRA DE PAULA GUSSO PIMENTEL",
+            "CRO": "715",
+            "ENDEREÇO": "RUA 404 SUL AV LO 11, 0 LT 14",
+            "TELEFONE": "63 3214-3132"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "MARCOS ALVES DIAS PIMENTEL",
+            "CRO": "676",
+            "ENDEREÇO": "RUA 404 SUL AV LO 11, 0 LT 14",
+            "TELEFONE": "63 3214-3132"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "OTACIANO  MARTINS DE OLIVEIRA JUNIOR",
+            "CRO": "929",
+            "ENDEREÇO": "RUA 504 SUL AL 3, 00 LT 06 SL 02 E 03",
+            "TELEFONE": "63 3214-3986"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "TAIZA RODRIGUES CARDOSO",
+            "CRO": "2269",
+            "ENDEREÇO": "AV. 101 SUL AV JOAQUIM TEOTONIO SEGURADO, 0 QD 101 SUL LT 06",
+            "TELEFONE": "63 3215-3939"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "THAYSE DOS REIS SILVA",
+            "CRO": "1766",
+            "ENDEREÇO": "QD 206 SUL AL 6, 0 LT 2",
+            "TELEFONE": "63 3215-2470"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Ortopedia Func. dos M",
+            "CREDENCIADO": "TAIZA RODRIGUES CARDOSO",
+            "CRO": "2269",
+            "ENDEREÇO": "AV. 101 SUL AV JOAQUIM TEOTONIO SEGURADO, 0 QD 101 SUL LT 06",
+            "TELEFONE": "63 3215-3939"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Periodontia",
+            "CREDENCIADO": "JULLIANA NAZARENO DE AGUIAR FRANCO LAGARES",
+            "CRO": "1526",
+            "ENDEREÇO": "RUA 404 SUL AV LO 11, 0 LT 14",
+            "TELEFONE": "63 3214-3132"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIR SUL",
+            "ESPECIALIDADE": "Prótese Dentária",
+            "CREDENCIADO": "FABIO EDUARDO FACHINI",
+            "CRO": "735",
+            "ENDEREÇO": "RUA 404 SUL AV LO 11, 0 LT 14",
+            "TELEFONE": "63 3214-3132"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "P DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "EDUARDO AOKI RIBEIRO SERA",
+            "CRO": "2500",
+            "ENDEREÇO": "AVENIDA LO 13, 0 606 SUL LT 18",
+            "TELEFONE": "63 3214-4829"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ADRIANA VANDERLEY GOMES",
+            "CRO": "1695",
+            "ENDEREÇO": "QD 104 NORTE RUA NE, 11 CJ 03 LT 01",
+            "TELEFONE": "63 3225-2306"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "BRUNO BONDEZAN ALVARES",
+            "CRO": "1354",
+            "ENDEREÇO": "QD 108 NORTE AV LO 4, 0 LT 12",
+            "TELEFONE": "63 3216-2363"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "CAMILA MEDEIROS MOTA",
+            "CRO": "1916",
+            "ENDEREÇO": "RUA NE 104 NORTE, 01 LT 27 SL 06",
+            "TELEFONE": "63 3233-6971"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "CHRISTIANE COLOMBO DOS SANTOS",
+            "CRO": "559",
+            "ENDEREÇO": "106 NORTE, S/N AL 9 LT 12 B SL 11",
+            "TELEFONE": "63 3225-7071"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "CICERO ROSA DO NASCIMENTO JUNIOR",
+            "CRO": "1260",
+            "ENDEREÇO": "106 NORTE AL 9, 0 LT 12 SL 10 SN",
+            "TELEFONE": "63 3215-8929"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "CLAUDIA CASTILHO MONTEIRO AMARAL",
+            "CRO": "2854",
+            "ENDEREÇO": "RUA 110 NORTE AV JUSCELINO KUBITSCHEK, 23 SL 101 TERREO",
+            "TELEFONE": "63 3215-5990"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "DOLORES ROSA FROIS DO NASCIMENTO",
+            "CRO": "2072",
+            "ENDEREÇO": "RUA 110 NORTE AV JUSCELINO KUBITSCHEK, 23 SL 101 TERREO",
+            "TELEFONE": "63 3215-5990"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "HELIO ALVES CAETANO JUNIOR",
+            "CRO": "1419",
+            "ENDEREÇO": "106 NORTE AL 9, 12 SL 12",
+            "TELEFONE": "63 3215-8929"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "JULIANA LEITAO GOMES SA",
+            "CRO": "1153",
+            "ENDEREÇO": "303 NORTE AL 07, 0 LT 51 SL 02",
+            "TELEFONE": "63-3224-5569"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "LESLEY ANE WILLERS",
+            "CRO": "1750",
+            "ENDEREÇO": "AV. JUSCELINO KUBITSCHEK, 0 106 NORTE LT 20",
+            "TELEFONE": "63 3215-2323"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "LORENA CRISTINA BORGES AZEVEDO",
+            "CRO": "2132",
+            "ENDEREÇO": "QD 104 NORTE RUA NE, 11 CJ 03 LT 01",
+            "TELEFONE": "63 3225-2306"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "MARCO AURELIO CARMONA AUGUSCO",
+            "CRO": "1147",
+            "ENDEREÇO": "AV. TEOTONIO SEGURADO, S/N QD 101 SL 1107 LT3",
+            "TELEFONE": "63 3215-8675"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "MARIANA VENDRAMINI CAMPOS GOVEIA",
+            "CRO": "1661",
+            "ENDEREÇO": "QD 104 NORTE RUA NE, 11 CJ 03 LT 01",
+            "TELEFONE": "63 3225-2306"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "MAYARA THAIS FLOR ROSAL",
+            "CRO": "1955",
+            "ENDEREÇO": "QD 305 NORTE RUA 15, 0 S/ N SL 04 LT 30",
+            "TELEFONE": "63 3225-8663"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "RENATA LEITAO GOMES SA",
+            "CRO": "811",
+            "ENDEREÇO": "303 NORTE AL 07, 0 LT 51 SL 02",
+            "TELEFONE": "63 3224-5569"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "RICARDO FRANKLIN DE SOUSA",
+            "CRO": "564",
+            "ENDEREÇO": "RUA NE 5, 05 CJ 3 LT 41 SL4",
+            "TELEFONE": "63 3224-1976"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Endodontia",
+            "CREDENCIADO": "BRUNO BONDEZAN ALVARES",
+            "CRO": "1354",
+            "ENDEREÇO": "QD 108 NORTE AV LO 4, 0 LT 12",
+            "TELEFONE": "63 3216-2363"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "FABIO JAILSON BEZERRA DE OLIVEIRA",
+            "CRO": "2166",
+            "ENDEREÇO": "RUA 110 NORTE AV JUSCELINO KUBITSCHEK, 23 SL 101 TERREO",
+            "TELEFONE": "63 3215-5990"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "HENRIQUE DE ARIMATEA SOUZA PEREIRA",
+            "CRO": "1930",
+            "ENDEREÇO": "104 NORTE RUA NE 01, 0 S/N SL 2 LT 40",
+            "TELEFONE": "63 3215-3395"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR NORTE",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "MAYARA THAIS FLOR ROSAL",
+            "CRO": "1955",
+            "ENDEREÇO": "QD 305 NORTE RUA 15, 0 S/ N SL 04 LT 30",
+            "TELEFONE": "63 3225-8663"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ADRIANA DE SOUZA OLIVEIRA",
+            "CRO": "1437",
+            "ENDEREÇO": "AV. JOAQUIM TEOTONIO SEGURADO, 102 QD 101 CJ 01\r\nLT 06",
+            "TELEFONE": "63 3215-0158"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ALESSANDRO PIRES HAEFFNER",
+            "CRO": "2187",
+            "ENDEREÇO": "AV. 204 SUL AL 3, 0 SN SL 9",
+            "TELEFONE": "63 3322-7950"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "AMILTON SANTOS",
+            "CRO": "704",
+            "ENDEREÇO": "AV. JOAQUIM TEOTONIO SEGURADO LT 01, 0 CJ 1 S 602\r\nQ 401 SUL",
+            "TELEFONE": "63 3228-6062"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ANDRE CARVALHO CORDEIRO",
+            "CRO": "1717",
+            "ENDEREÇO": "AV. LO 11 QD 404 SUL LT 23, S/N SL 14/15 CP 315",
+            "TELEFONE": "63 3015-5727"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ARSENI LAZARO FACUNDES",
+            "CRO": "2190",
+            "ENDEREÇO": "AV. LO 11 QD 404 SUL LT 23, S/N SL 14/15 CP 315",
+            "TELEFONE": "63 3015-5727"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "CAROLINA TEIXEIRA TOLENTINO",
+            "CRO": "1558",
+            "ENDEREÇO": "AV. LO 11 QD 404 SUL LT 23, S/N SL 14/15 CP 315",
+            "TELEFONE": "63 3015-5727"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "CAROLINE CINQUINI FREITAS FRANCO",
+            "CRO": "2528",
+            "ENDEREÇO": "RUA 403 SUL AV LO 9, 9 LT 7 A SL 6",
+            "TELEFONE": "63 3214-7536"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "CHERYLED CAVALCANTE MUNIZ",
+            "CRO": "1802",
+            "ENDEREÇO": "AV. LO 11 QD 404 SUL LT 23, S/N SL 14/15 CP 315",
+            "TELEFONE": "63 3015-5727"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "CLARISSA MENNA BARRETO CORREA",
+            "CRO": "2436",
+            "ENDEREÇO": "AV. LO 01 103 SUL, 47 ED ORALPREV",
+            "TELEFONE": "63 3224-1070"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "CLAUDIO SILVEIRA DOS SANTOS",
+            "CRO": "480",
+            "ENDEREÇO": "AV. LO 11 QD 404 SUL LT 23, S/N SL 14/15 CP 315",
+            "TELEFONE": "63 3015-5727"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "DEBORAH WANDERLEY RIBEIRO DE SOUZA",
+            "CRO": "1926",
+            "ENDEREÇO": "AV. LO 11 QD 404 SUL LT 23, S/N SL 14/15 CP 315",
+            "TELEFONE": "63 3015-5727"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "DOLORES ROSA FROIS DO NASCIMENTO",
+            "CRO": "2072",
+            "ENDEREÇO": "104 SUL AV LO 01, 5 SL 5",
+            "TELEFONE": "63 3225-0867"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ELISETE BUENO CARREIRA",
+            "CRO": "2391",
+            "ENDEREÇO": "AV. LO 01 103 SUL, 47 ED ORALPREV",
+            "TELEFONE": "63 3224-1070"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "FULVIO FRANCIS GALDIANO DA SILVA",
+            "CRO": "1608",
+            "ENDEREÇO": "104 SUL AV LO 01, 5 SL 5",
+            "TELEFONE": "63 3225-0867"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "GEOVANA ALVES COSTA DOS SANTOS MACEDO",
+            "CRO": "2437",
+            "ENDEREÇO": "AV. LO 01 103 SUL, 47 ED ORALPREV",
+            "TELEFONE": "63 3224-1070"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "HELENA MARIA GUERRA JARDIM LOMBARDI",
+            "CRO": "196",
+            "ENDEREÇO": "QD 704 SUL A LO 15, 71 LT 21",
+            "TELEFONE": "63 3214-1087"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "IZIDORO SEVERINO DA SILVA JUNIOR",
+            "CRO": "2394",
+            "ENDEREÇO": "QD 206 SUL AVENIDA LO 5, 08 SL 02",
+            "TELEFONE": "63 3322-2575"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "JOAO ANTONIO PROENCO",
+            "CRO": "1843",
+            "ENDEREÇO": "AV. LO 11 QD 404 SUL LT 23, S/N SL 14/15 CP 315",
+            "TELEFONE": "63 3015-5727"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "LETICIA SAYURI UMINO BARROS",
+            "CRO": "1336",
+            "ENDEREÇO": "AV. TEOTONIO SEGURADO 101 SUL, 06 SL 901 CJ 01 9º AND.",
+            "TELEFONE": "63 3215-4218"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "MARCELA AQUINO LACERDA",
+            "CRO": "3057",
+            "ENDEREÇO": "AV. LO 01 103 SUL, 47 ED ORALPREV",
+            "TELEFONE": "63 3224-1070"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "MARCELO VICTOR BATISTA DE SOUSA",
+            "CRO": "2464",
+            "ENDEREÇO": "AV. LO 01 103 SUL, 47 ED ORALPREV",
+            "TELEFONE": "63 3224-1070"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "MILENA GABRIELA SOUZA GOMES",
+            "CRO": "2615",
+            "ENDEREÇO": "AV. LO 01 103 SUL, 47 ED ORALPREV",
+            "TELEFONE": "63 3224-1070"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "MISIA LEANI ARAUJO MILHOMEM",
+            "CRO": "2075",
+            "ENDEREÇO": "QD 206 SUL AVENIDA LO 5, 08 SL 02",
+            "TELEFONE": "63 3322-2575"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "MONNIK EVILYN MELO COSTA",
+            "CRO": "1855",
+            "ENDEREÇO": "AV. LO 11 QD 404 SUL LT 23, S/N SL 14/15 CP 315",
+            "TELEFONE": "63 3015-5727"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "NATHALIA COSTA UBIRAJARA",
+            "CRO": "2056",
+            "ENDEREÇO": "AV. LO 01 103 SUL, 47 ED ORALPREV",
+            "TELEFONE": "63 3224-1070"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "NEIDIMAR CONCEICAO DE FREITAS MOREIRA",
+            "CRO": "545",
+            "ENDEREÇO": "AV. LO 01 103 SUL, 47 ED ORALPREV",
+            "TELEFONE": "63 3224-1070"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "RAFAEL DE ARAUJO CARDOSO LIMA",
+            "CRO": "1932",
+            "ENDEREÇO": "AV. LO 11 QD 404 SUL LT 23, S/N SL 14/15 CP 315",
+            "TELEFONE": "63 3015-5727"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ROBERTA NERI DE MELO",
+            "CRO": "1485",
+            "ENDEREÇO": "104 SUL AV LO 01, 5 SL 5",
+            "TELEFONE": "63 3225-0867"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "THAYS RODRIGUES DA SILVA",
+            "CRO": "3073",
+            "ENDEREÇO": "AV. LO 01 103 SUL, 47 ED ORALPREV",
+            "TELEFONE": "63 3224-1070"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "TIAGO UMINO",
+            "CRO": "1322",
+            "ENDEREÇO": "AV. LO 01 103 SUL, 47 ED ORALPREV",
+            "TELEFONE": "63 3224-1070"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "VERONICA GOMES DA SILVA CARDOSO MOTA",
+            "CRO": "1778",
+            "ENDEREÇO": "QD 504 SUL AL, 02 LT 46 SL 01",
+            "TELEFONE": "63 3214-3311"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "YAPORAN DA FONSECA MILHOMEM",
+            "CRO": "2053",
+            "ENDEREÇO": "403 SUL AV. LO 9, 0 S/N LT 13 SL 01",
+            "TELEFONE": "63 3216-3667"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Dentística",
+            "CREDENCIADO": "ANDRE HENRIQUE RIBEIRO",
+            "CRO": "936",
+            "ENDEREÇO": "AV. LO 11 QD 404 SUL LT 23, S/N SL 14/15 CP 315",
+            "TELEFONE": "63 3015-5727"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Endodontia",
+            "CREDENCIADO": "LETICIA SAYURI UMINO BARROS",
+            "CRO": "1336",
+            "ENDEREÇO": "AV. TEOTONIO SEGURADO 101 SUL, 06 SL 901 CJ 01 9º AND.",
+            "TELEFONE": "63 3215-4218"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "ADRIANA DE SOUZA OLIVEIRA",
+            "CRO": "1437",
+            "ENDEREÇO": "AV. JOAQUIM TEOTONIO SEGURADO, 102 QD 101 CJ 01\r\nLT 06",
+            "TELEFONE": "63 3215-0158"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "ALEXANDRA MONEGO MOREIRA",
+            "CRO": "2163",
+            "ENDEREÇO": "AV. LO 01 103 SUL, 47 ED ORALPREV",
+            "TELEFONE": "63 3224-1070"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "ARSENI LAZARO FACUNDES",
+            "CRO": "2190",
+            "ENDEREÇO": "AV. LO 11 QD 404 SUL LT 23, S/N SL 14/15 CP 315",
+            "TELEFONE": "63 3015-5727"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "CAROLINE CINQUINI FREITAS FRANCO",
+            "CRO": "2528",
+            "ENDEREÇO": "RUA 403 SUL AV LO 9, 9 LT 7 A SL 6",
+            "TELEFONE": "63 3214-7536"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "CLAUDIO SILVEIRA DOS SANTOS",
+            "CRO": "480",
+            "ENDEREÇO": "AV. LO 11 QD 404 SUL LT 23, S/N SL 14/15 CP 315",
+            "TELEFONE": "63 3015-5727"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "NEIDIMAR CONCEICAO DE FREITAS MOREIRA",
+            "CRO": "545",
+            "ENDEREÇO": "AV. LO 01 103 SUL, 47 ED ORALPREV",
+            "TELEFONE": "63 3224-1070"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Ortopedia Func. dos M",
+            "CREDENCIADO": "NEIDIMAR CONCEICAO DE FREITAS MOREIRA",
+            "CRO": "545",
+            "ENDEREÇO": "AV. LO 01 103 SUL, 47 ED ORALPREV",
+            "TELEFONE": "63 3224-1070"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Radiologia",
+            "CREDENCIADO": "BRAGA E MANSUR LTDA EPP",
+            "CRO": "112",
+            "ENDEREÇO": "AV. LO3, 19 108 SUL SL102",
+            "TELEFONE": "63 3213-2900"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "PLANO DIRETOR SUL",
+            "ESPECIALIDADE": "Radiologia",
+            "CREDENCIADO": "JM SERVICOS ODONTO RADIOLOGICOS LTDA",
+            "CRO": "36",
+            "ENDEREÇO": "AV. LO, 11 QD 404 SUL LT 22",
+            "TELEFONE": "63 3216-3121"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PALMAS",
+            "BAIRRO": "TAQUARALTO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "BARBARA PRADO TOMAZ",
+            "CRO": "878",
+            "ENDEREÇO": "RUA 10, 0 SL 1 QD 33 LT 6",
+            "TELEFONE": "63 3571-1804"
+        }
+    ]
+}

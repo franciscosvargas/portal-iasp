@@ -19,9 +19,9 @@ const Home = () => (
 		<Topbar />
 
 		<Content>
-			<Title>Área do</Title>
-			<Subtitle>ASSOCIADO</Subtitle>
-			<Button href="https://cliente.portaliasp.org">ACESSAR</Button>
+			<Title>Bem vindo(a) ao</Title>
+			<Subtitle>Instituto de Assistência ao Servidor Público</Subtitle>
+			<Button href="https://cliente.portaliasp.org">ACESSAR ÁREA DO ASSOCIADO</Button>
 		</Content>
 
 		

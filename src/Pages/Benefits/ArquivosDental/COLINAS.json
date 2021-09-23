@@ -1,0 +1,94 @@
+﻿{
+    "Table 1": [
+        {
+            "UF": "TO",
+            "CIDADE": "COLINAS DO TOCANTINS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ANA FLAVIA EDUARDO DA SILVA",
+            "CRO": "998",
+            "ENDEREÇO": "RUA 03 , 1792",
+            "TELEFONE": "63 3476-2127"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "COLINAS DO TOCANTINS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "DURVAL MARQUES PALMEIRA NETO",
+            "CRO": "2476",
+            "ENDEREÇO": "RUA 03 , 1792",
+            "TELEFONE": "63 3476-2127"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "COLINAS DO TOCANTINS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "MARAINA FELIPE DE BRITTO",
+            "CRO": "2809",
+            "ENDEREÇO": "PC. 21 DE ABRIL, 206",
+            "TELEFONE": "63 3476-1717"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "COLINAS DO TOCANTINS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "TALITA EDUARDO SANTANA DA SILVA",
+            "CRO": "2727",
+            "ENDEREÇO": "RUA 03 , 1792",
+            "TELEFONE": "63 3476-2127"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "COLINAS DO TOCANTINS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "VANESSA DE CASTRO EDUARDO",
+            "CRO": "2277",
+            "ENDEREÇO": "RUA 03 , 1792",
+            "TELEFONE": "63 3476-2127"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "COLINAS DO TOCANTINS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "HUGO EDUARDO FRANCA",
+            "CRO": "622",
+            "ENDEREÇO": "RUA 03 , 1792",
+            "TELEFONE": "63 3476-2127"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "COLINAS DO TOCANTINS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "MARGARIDA MARIA FELIPE DE MIRANDA",
+            "CRO": "308",
+            "ENDEREÇO": "PC. 21 DE ABRIL, 206",
+            "TELEFONE": "63 3476-1717"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "COLINAS DO TOCANTINS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Ortopedia Func. dos M",
+            "CREDENCIADO": "MARGARIDA MARIA FELIPE DE MIRANDA",
+            "CRO": "308",
+            "ENDEREÇO": "PC. 21 DE ABRIL, 206",
+            "TELEFONE": "63 3476-1717"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "COLINAS DO TOCANTINS",
+            "BAIRRO": "SETOR CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ICARO DE OLIVEIRA",
+            "CRO": "2867",
+            "ENDEREÇO": "AV. BERNARDO SAYAO, 1447",
+            "TELEFONE": "63 3476-1747"
+        }
+    ]
+}

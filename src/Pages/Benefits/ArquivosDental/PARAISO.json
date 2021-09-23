@@ -1,0 +1,24 @@
+﻿{
+    "Table 1": [
+        {
+            "UF": "TO",
+            "CIDADE": "PARAISO DO TOCANTINS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "EDSON MENESES DE SA",
+            "CRO": "1665",
+            "ENDEREÇO": "AV. CASTELO BRANCO, 1061 SL 1 E 2 1 PISO",
+            "TELEFONE": "63 3361-2765"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "PARAISO DO TOCANTINS",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "SAMUEL MILEIB BRUGNARA",
+            "CRO": "1267",
+            "ENDEREÇO": "AV. CASTELO BRANCO, 175",
+            "TELEFONE": "63 3361-3498"
+        }
+    ]
+}

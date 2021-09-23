@@ -6,7 +6,7 @@ export const Container = styled.div`
 	width: 100%;
 	height: 100%;
 	background-color: rgba(0, 0, 0, 0.7);
-	background-image: url(${ImageBg}),linear-gradient(to left, #1d2671 0, #6190E8 100%);
+	background-image: url(${ImageBg}),linear-gradient(to left, #C3DA8C 0, #437512 100%);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;

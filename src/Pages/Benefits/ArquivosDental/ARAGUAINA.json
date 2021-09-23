@@ -1,0 +1,354 @@
+﻿{
+    "Table 1": [
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "ANHANGUERA",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "WALLQUIRIA OLIVEIRA SILVA VALTUILLE",
+            "CRO": "1921",
+            "ENDEREÇO": "AV. JOSE DE BRITO SOARES, 732",
+            "TELEFONE": "63 3421-4114"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Cirurgia",
+            "CREDENCIADO": "WANDERSON NUNES DE CARVALHO",
+            "CRO": "1179",
+            "ENDEREÇO": "AV. SANTOS DUMONT, 73",
+            "TELEFONE": "63 3414-7184"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "CARLOS ANSELMO RIBEIRO JUNIOR",
+            "CRO": "727",
+            "ENDEREÇO": "RUA 19 DE NOVEMBRO, 123",
+            "TELEFONE": "63 3421-2207"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "DANYELL FLAVIO SARAIVA SANTANA",
+            "CRO": "1509",
+            "ENDEREÇO": "RUA 13 DE MAIO, 1588",
+            "TELEFONE": "63 3412-7902"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "EDUARDO PINHEIRO FRAZAO",
+            "CRO": "2736",
+            "ENDEREÇO": "AV. TOCANTINS, 1450",
+            "TELEFONE": "63 3414-1587"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "EVA MARIA ALMEIDA CARNEIRO DA CUNHA",
+            "CRO": "1062",
+            "ENDEREÇO": "RUA PARANAIBA, 1866",
+            "TELEFONE": "63 3415-3059"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "FABIANA PEREIRA FARIAS",
+            "CRO": "2760",
+            "ENDEREÇO": "RUA SANTA CRUZ, 884",
+            "TELEFONE": "63 3414-5327"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "GERALDO FRANCISCO ALVES PIMENTA",
+            "CRO": "1083",
+            "ENDEREÇO": "RUA 1º DE JANEIRO, 1613",
+            "TELEFONE": "63 3421-3536"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "NHAJARA SOARES MARINHO",
+            "CRO": "1458",
+            "ENDEREÇO": "AV. TOCANTINS, 1450",
+            "TELEFONE": "63 3414-1587"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "PERON FERREIRA BATISTA JUNIOR",
+            "CRO": "654",
+            "ENDEREÇO": "AV. TOCANTINS, 1650 SL 1",
+            "TELEFONE": "63 3414-7756"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "SILVIA CARDOSO ABADIA",
+            "CRO": "515",
+            "ENDEREÇO": "RUA GAUCHO, 188",
+            "TELEFONE": "63 3414-3698"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "VANESSA NOJIRI DA SILVA",
+            "CRO": "1448",
+            "ENDEREÇO": "RUA RUI BARBOSA, 23",
+            "TELEFONE": "63 3414-8174"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "WANDERSON NUNES DE CARVALHO",
+            "CRO": "1179",
+            "ENDEREÇO": "AV. SANTOS DUMONT, 73",
+            "TELEFONE": "63 3414-7184"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Endodontia",
+            "CREDENCIADO": "DEBORA CRISTINA PACHECO FERREIRA",
+            "CRO": "661",
+            "ENDEREÇO": "RUA TOCANTINS, 1650 SL 1",
+            "TELEFONE": "63 3414-7756"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "CENTRO",
+            "ESPECIALIDADE": "Endodontia",
+            "CREDENCIADO": "VANESSA NOJIRI DA SILVA",
+            "CRO": "1448",
+            "ENDEREÇO": "RUA RUI BARBOSA, 23",
+            "TELEFONE": "63 3414-8174"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "LOTEAMENTO PANORAMA",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "HELLEN DE OLIVEIRA ROCHA NASCIMENTO",
+            "CRO": "1946",
+            "ENDEREÇO": "RUA BELA CICILIA, 23 PC DO NOROESTE",
+            "TELEFONE": "63 3412-7826"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "SAO JOAO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ANA PAULA FLORIN PINHEIRO FERREIRA",
+            "CRO": "2466",
+            "ENDEREÇO": "AV. PREF JOAO DE SOUZA LIMA, 550",
+            "TELEFONE": "63 98456-0357"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "SAO JOAO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "JACKCILENE NOGUEIRA DE FREITAS",
+            "CRO": "2103",
+            "ENDEREÇO": "RUA 1º DE JANEIRO, 2238",
+            "TELEFONE": "63 3411-1240"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "SETOR CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "DAIANNY SANTOS SILVA CELEDONIO",
+            "CRO": "1906",
+            "ENDEREÇO": "RUA SADOC CORREIA, 164 CENTRO",
+            "TELEFONE": "63 3414-6043"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "SETOR CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ROSELY DA CONCEICAO DIAS",
+            "CRO": "1541",
+            "ENDEREÇO": "RUA RUI BARBOSA, 122 SL 03",
+            "TELEFONE": "63 3415-3667"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "SETOR CENTRAL",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "DAIANNY SANTOS SILVA CELEDONIO",
+            "CRO": "1906",
+            "ENDEREÇO": "RUA SADOC CORREIA, 164 CENTRO",
+            "TELEFONE": "63 3414-6043"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "ST ANHANGÜERA",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "IZABELLA CHRISTINA FERREIRA FREDERICO DE OLIVEIRA",
+            "CRO": "2503",
+            "ENDEREÇO": "AVENIDA JOSE DE BRITO SOARES, 732",
+            "TELEFONE": "63 9989-9166"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "ST CENTRAL",
+            "ESPECIALIDADE": "Cirurgia",
+            "CREDENCIADO": "DENISSON ALCHAAR SERRA",
+            "CRO": "966",
+            "ENDEREÇO": "RUA TOCANTINS, 1270",
+            "TELEFONE": "63 3421-3400"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "ST CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ANELISE FERREIRA DE SOUSA",
+            "CRO": "1950",
+            "ENDEREÇO": "RUA SADOC CORREIA, 329",
+            "TELEFONE": "63 3414-5109"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "ST CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "MARILANA CAVALCANTE D ABADIA CARVALHO",
+            "CRO": "2335",
+            "ENDEREÇO": "RUA TREZE DE MAIO, 808",
+            "TELEFONE": "63 9227-6075"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "ST CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "NAYANA CLITENIA SILVA OLIVEIRA",
+            "CRO": "2891",
+            "ENDEREÇO": "AVENIDA PRIMEIRO DE JANEIRO, 790",
+            "TELEFONE": "63 3412-3639"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "ST CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "RENATA CRISTINA MOREIRA RODRIGUES",
+            "CRO": "918",
+            "ENDEREÇO": "RUA DEZENOVE DE NOVEMBRO, 123",
+            "TELEFONE": "63 3421-2207"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "ST CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "RENATA MOREIRA ROSA LOURENCO",
+            "CRO": "1976",
+            "ENDEREÇO": "RUA TREZE DE MAIO, 1443",
+            "TELEFONE": "63 3415-2500"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "ST CENTRAL",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "VALERIA ALVES GALVAO DO CARMO",
+            "CRO": "1975",
+            "ENDEREÇO": "RUA CONEGO JOAO LIMA, 2070",
+            "TELEFONE": "63 3414-0413"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "ST CENTRAL",
+            "ESPECIALIDADE": "Endodontia",
+            "CREDENCIADO": "MARILANA CAVALCANTE D ABADIA CARVALHO",
+            "CRO": "2335",
+            "ENDEREÇO": "RUA TREZE DE MAIO, 808",
+            "TELEFONE": "63 9227-6075"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "ST CENTRAL",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "ANELISE FERREIRA DE SOUSA",
+            "CRO": "1950",
+            "ENDEREÇO": "RUA SADOC CORREIA, 329",
+            "TELEFONE": "63 3414-5109"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "ST CENTRAL",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "RENATA CRISTINA MOREIRA RODRIGUES",
+            "CRO": "918",
+            "ENDEREÇO": "RUA DEZENOVE DE NOVEMBRO, 123",
+            "TELEFONE": "63 3421-2207"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "ST CENTRAL",
+            "ESPECIALIDADE": "Ortodontia",
+            "CREDENCIADO": "RENATA MOREIRA ROSA LOURENCO",
+            "CRO": "1976",
+            "ENDEREÇO": "RUA TREZE DE MAIO, 1443",
+            "TELEFONE": "63 3415-2500"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "ST RODOVIARIO",
+            "ESPECIALIDADE": "Clínico Geral",
+            "CREDENCIADO": "ROBESPIERRE GOMES SOUZA",
+            "CRO": "698",
+            "ENDEREÇO": "AV. C, 437 SL 03",
+            "TELEFONE": "63 3414-1596"
+        },
+        {
+            "UF": "TO",
+            "CIDADE": "ARAGUAINA",
+            "BAIRRO": "ST RODOVIARIO",
+            "ESPECIALIDADE": "Dentística",
+            "CREDENCIADO": "ROBESPIERRE GOMES SOUZA",
+            "CRO": "698",
+            "ENDEREÇO": "AV. C, 437 SL 03",
+            "TELEFONE": "63 3414-1596"
+        }
+    ]
+}
