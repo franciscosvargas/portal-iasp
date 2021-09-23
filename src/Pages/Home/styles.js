@@ -83,6 +83,7 @@ export const Button = styled.a`
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	text-align: center;
 
 	:hover {
 		background: #fff;
